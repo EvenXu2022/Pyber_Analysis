@@ -43,5 +43,5 @@ Rural has the highest Average Fare per Driver, while urban cities have the lowes
 - Suburban can be a good start for business since their are less drivers in the suburban cities, and average fare per driver is moderate.
 - Urban cities are suitable for full time drivers who can provide services on time and proactively look for business.
 - Rural cities are not considered since the demand is very low.
-
+<img src="Images/PyBer_fare_Summary.png">
 
